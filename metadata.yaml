@@ -5,6 +5,9 @@ contributor:
     agent_name: Hollingsworth
     gutenberg_agent_id: '52513'
     url: http://www.gutenberg.org/2009/agents/52513
+covers:
+- cover_type: archival
+  image_path: 63796-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuttner, Henry
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35061
     wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63796#What-Hath-Me
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
